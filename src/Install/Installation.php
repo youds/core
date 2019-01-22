@@ -11,9 +11,6 @@
 
 namespace Flarum\Install;
 
-use Flarum\Install\Prerequisite;
-use Flarum\Install\Steps;
-
 class Installation
 {
     private $basePath;
